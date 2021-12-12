@@ -1,0 +1,35 @@
+.particular-card-global{
+    background-image: linear-gradient(to right, rgb(244, 234, 255) , rgb(255, 195, 246));
+    display: grid;
+    width: 300px;
+    justify-content: center;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 40px 1px rgb(180, 180, 180);
+}
+
+.particular-card-global h1{
+    color: rgb(63, 63, 63);
+    text-align: center;
+}
+
+.particular-card-global p {
+    text-align: center;
+    font-size: 54px;
+    margin: 0;
+}
+
+.particular-card-global img {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.particular-card-global button {
+    height: 50px;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+}
